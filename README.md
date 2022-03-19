@@ -14,7 +14,7 @@
 
 ### My Certifications
 
-![competition_light](//d1.awsstatic.com/training-and-certification/Certification%20Badges/AWS-Certified_Developer_Associate_badge_512x512.616df8fd6c6a4298d013b7787e0bbbf93f9e2760.png)
+![competition_light](https://res.cloudinary.com/practicaldev/image/fetch/s--XRZn7IGl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/qzhckrcorfeg8s6a1160.PNG)
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/dataset/light)
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/notebook/light)
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/discussion/light)
