@@ -13,8 +13,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋;+Welcome+to+My+Profile!)](https://git.io/typing-svg)
 
 ### My Certifications
-
-![competition_light](<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--XRZn7IGl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/qzhckrcorfeg8s6a1160.PNG" alt="drawing" width="200"/>)
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--XRZn7IGl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/qzhckrcorfeg8s6a1160.PNG" alt="drawing" width="200"/>
 
 
 Property | Data
