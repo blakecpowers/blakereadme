@@ -41,10 +41,4 @@ Property | Data
 <a href="https://www.linkedin.com/in/blake-galbavy-37209913a" target="blank"><img align="center" src="https://raw.githubusercontent.com/blakegalbavy/blakegalbavy/master/assets/linkedin.svg" alt="BEPb" height="30" width="30" /></a>
 <a href="mailto:blakegalbavy@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/blakegalbavy/blakegalbavy/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
 </p>
-
-
-
----
-  *If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.*
----
   
