@@ -27,7 +27,7 @@ Property | Data
 ![Blake's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=blakegalbavy&hide_border=true&theme=react-dark)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=blakegalbavy"></img>
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--XRZn7IGl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/qzhckrcorfeg8s6a1160.PNG" alt="drawing" width="200" height="200"/>
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--XRZn7IGl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/qzhckrcorfeg8s6a1160.PNG" alt="drawing" width="200" height="185"/>
 
 
 **📫 How to Reach me:**
