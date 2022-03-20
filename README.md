@@ -29,7 +29,7 @@ Property | Data
 
 Github Streak             |  Certifications
 :-------------------------:|:-------------------------:
-![](<img src="https://github-readme-streak-stats.herokuapp.com/?user=blakegalbavy"></img>)  |  ![](<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--XRZn7IGl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/qzhckrcorfeg8s6a1160.PNG" alt="drawing" width="200" height="193"/>)
+!(<img src="https://github-readme-streak-stats.herokuapp.com/?user=blakegalbavy"></img>)  |  !(<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--XRZn7IGl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/qzhckrcorfeg8s6a1160.PNG" alt="drawing" width="200" height="193"/>)
 
 
 **📫 How to Reach me:**
