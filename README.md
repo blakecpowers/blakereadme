@@ -27,7 +27,7 @@ Property | Data
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
-![Blake's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=blakegalbavy&hide_border=true&theme=redical)
+![Blake's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=blakegalbavy&hide_border=true&theme=react-dark)
 
 
 ![Blake's github stats](https://github-readme-stats.vercel.app/api?username=blakegalbavy&show_icons=true&theme=radical&include_all_commits=true)
