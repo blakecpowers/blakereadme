@@ -23,15 +23,14 @@ Property | Data
 
 
 ### My Certifications
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--XRZn7IGl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/qzhckrcorfeg8s6a1160.PNG" alt="drawing" width="200"/>
+
 
 <!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
+### Github Stats & More:
 ![Blake's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=blakegalbavy&hide_border=true&theme=react-dark)
 
-
-![Blake's github stats](https://github-readme-stats.vercel.app/api?username=blakegalbavy&show_icons=true&theme=radical&include_all_commits=true)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=blakegalbavy"></img>
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--XRZn7IGl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/qzhckrcorfeg8s6a1160.PNG" alt="drawing" width="200"/>
 
 
 **📫 How to Reach me:**
