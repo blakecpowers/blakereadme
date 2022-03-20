@@ -27,13 +27,11 @@ Property | Data
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
-<!-- ![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=BEPb&hide_border=true&theme=redical) -->
+![Blake's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=blakegalbavy&hide_border=true&theme=redical)
 
- . | .
---- | --- 
-<!-- ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=BEPb&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BEPb&theme=radical&layout=compact)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BEPb"></img> -->
+![Blake's github stats](https://github-readme-stats.vercel.app/api?username=blakegalbavy&show_icons=true&theme=radical&include_all_commits=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=blakegalbavy"></img>
 
 
 **📫 How to Reach me:**
