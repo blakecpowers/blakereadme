@@ -1,10 +1,9 @@
 <p align="center">
     <a href="https://github.com/blakegalbavy/blakegalbavy"><img src="https://img.shields.io/badge/ALWAYS-UPGRADING-lightgrey"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Java-11%20%7C%2017-red"></a>
-    <a href="https://github.com/blakegalbavy/blakegalbavy/graphs/contributors"><img src="https://img.shields.io/github/contributors/BEPb/BEPb?color=blue"></a>
-    <a href="https://github.com/blakegalbavy/blakegalbavy/stargazers"><img src="https://img.shields.io/github/stars/BEPb/BEPb.svg?logo=github"></a>
-    <a href="https://github.com/blakegalbavy/blakegalbavy/network/members"><img src="https://img.shields.io/github/forks/BEPb/BEPb.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=BEPb.BEPb" alt="visitors"/>   
+    <a href="https://github.com/blakegalbavy/blakegalbavy/graphs/contributors"><img src="https://img.shields.io/badge/Python-2%20%7C%203-blue"></a>
+    <a href="https://github.com/blakegalbavy/blakegalbavy/stargazers"><img src="https://img.shields.io/badge/-web3-brightpink"></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=blakegalbavy.blakegalbavy" alt="visitors"/>   
 </p>
 
 ![](./src/header_.png)
@@ -27,14 +26,15 @@ Property | Data
 ![Blake's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=blakegalbavy&hide_border=true&theme=react-dark)
 
 
-Github Streak             |  Certifications
+Stats             |  Certs
 :-------------------------:|:-------------------------:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=blakegalbavy"></img>  |  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--XRZn7IGl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/qzhckrcorfeg8s6a1160.PNG" alt="drawing" width="200" height="193"/>
 
 
 **📫 How to Reach me:**
 <p align="left">
-<a href="https://www.linkedin.com/in/blake-galbavy-37209913a" target="blank"><img align="center" src="https://raw.githubusercontent.com/blakegalbavy/blakegalbavy/master/assets/linkedin.svg" alt="BEPb" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/blake-galbavy-37209913a" target="blank"><img align="center" src="https://raw.githubusercontent.com/blakegalbavy/blakegalbavy/master/assets/linkedin.svg" alt="
+    Pb" height="30" width="30" /></a>
 <a href="mailto:blakegalbavy@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/blakegalbavy/blakegalbavy/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
 </p>
   
