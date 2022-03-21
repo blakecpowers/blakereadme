@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋;+Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 
-Property | Data
+x | y
 --- | --- 
 **Languages**  | ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![Java Badge](https://img.shields.io/badge/-Java-red) ![JS_Badge](https://img.shields.io/badge/-javascript-yellow) ![TS_Badge](https://img.shields.io/badge/-typescript-blue)
 **Interests**  | ![AWS_Badge](https://img.shields.io/badge/-AWS-orange) ![Node_Badge](https://img.shields.io/badge/-Node-brightgreen) ![React_Badge](https://img.shields.io/badge/-React-lightgrey) [![Machine Learning Badge](https://img.shields.io/badge/-Machine%20Learning-01D277?style=flat&logoColor=white)](https://github.com/blakegalbavy/blakegalbavy) ![BD_Badge](https://img.shields.io/badge/-Big%20Data-blue) ![Web3](https://img.shields.io/badge/-web3-brightpink)
