@@ -31,6 +31,6 @@ Stats             |  Certs
 <p align="left">
 <a href="https://www.linkedin.com/in/blake-galbavy-37209913a" target="blank"><img align="center" src="https://raw.githubusercontent.com/blakegalbavy/blakegalbavy/master/assets/linkedin.svg" alt="
     Pb" height="30" width="30" /></a>
-<a href="mailto:blakegalbavy@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/blakegalbavy/blakegalbavy/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
+<a href="mailto:blakegalbavy1234@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/blakegalbavy/blakegalbavy/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
 </p>
   
