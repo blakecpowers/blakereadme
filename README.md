@@ -7,6 +7,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hello+|+Hola+|Bonjour+|Привет+|你好+|こんにちは+|नमस्ते;+Welcome+to+my+profile+🌍 )](https://git.io/typing-svg)
 <!-- | Hola | Olá | Bonjour | Привет | 你好 | こんにちは | أهلا | नमस्ते -->
 
+
 Data | Property
 --- | --- 
 **Languages**  | ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![Java Badge](https://img.shields.io/badge/-Java-red) ![JS_Badge](https://img.shields.io/badge/-javascript-yellow) ![TS_Badge](https://img.shields.io/badge/-typescript-blue)
